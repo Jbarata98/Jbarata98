@@ -9,4 +9,6 @@
 
 - Before embarking on my professional journey, I delved into the research world, focusing on integrating Transformers within an encoder-decoder architecture for remote sensing image captioning. You can explore it [here](https://github.com/Jbarata98/remote-sensing-image-captioning)
 
+- I enjoy discussing topics within the AI field, which is why I also dedicate my time to giving lectures at Data Science workshops and bootcamps hosted by Le Wagon.
+
 
